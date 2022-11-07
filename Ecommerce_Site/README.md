@@ -1,6 +1,16 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
+Follow the command for run the project:
+
+first you have to install Nodejs. then
+1. download the project 
+2. Enter the Ecommerce_site folder
+3. In this folder open Terminal
+4. type --> yarn install or npm install
+5. then type ---> yarn dev or npm run dev
+6. then go to http://localhost:3000/ url.
+7. project is now open.
 
 First, run the development server:
 
