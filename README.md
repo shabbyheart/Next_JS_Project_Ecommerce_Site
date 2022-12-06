@@ -13,8 +13,8 @@ first you have to install Nodejs. then
 6. then go to http://localhost:3000/ url.
 7. project is now open.
 
-# Output
-[<img src="https://drive.google.com/file/d/1q9Q3F-PCEZEjCOfeIrhyC7WLERqCbPOH/view?usp=share_link" width="50%">](https://www.youtube.com/watch?v=nA8JC2QpTqw&ab_channel=OmarFaruq "Now in Android: 55")
+# Output Video
+[<img src="https://i9.ytimg.com/vi_webp/nA8JC2QpTqw/mq3.webp?sqp=CISgvpwG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYACkgWKAgwIABABGCEgFyh_MA8=&rs=AOn4CLBMJiyXUMC6JuWbh44jdSM8oBYjGQ" width="50%">](https://www.youtube.com/watch?v=nA8JC2QpTqw&ab_channel=OmarFaruq "Now in Android: 55")
 
 First, run the development server:
 
