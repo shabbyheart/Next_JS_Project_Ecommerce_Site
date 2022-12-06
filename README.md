@@ -2,7 +2,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
-Follow the command for run the project:
+Follow the instruction for run the project:
 
 first you have to install Nodejs. then
 1. download the project 
@@ -12,6 +12,9 @@ first you have to install Nodejs. then
 5. then type ---> yarn dev or npm run dev
 6. then go to http://localhost:3000/ url.
 7. project is now open.
+
+# Output
+[<img src="https://drive.google.com/file/d/1q9Q3F-PCEZEjCOfeIrhyC7WLERqCbPOH/view?usp=share_link" width="50%">](https://www.youtube.com/watch?v=nA8JC2QpTqw&ab_channel=OmarFaruq "Now in Android: 55")
 
 First, run the development server:
 
